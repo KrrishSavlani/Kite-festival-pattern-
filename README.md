@@ -1,0 +1,1 @@
+# Kte pattern in c 
